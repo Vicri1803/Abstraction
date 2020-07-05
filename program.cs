@@ -13,8 +13,8 @@ namespace Abstraction
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nama\t: Naima Zulfa");
-            Console.WriteLine("NIM\t: 19.11.2735");
+            Console.WriteLine("Nama\t: Muhammad Vicri Ariadi");
+            Console.WriteLine("NIM\t: 19.11.2785");
             Console.WriteLine("Kelas\t: 19 IF 03");
 
             Console.WriteLine();
